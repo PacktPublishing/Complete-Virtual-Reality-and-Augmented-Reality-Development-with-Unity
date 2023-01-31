@@ -14,7 +14,7 @@ You’ll learn the Unity 3D game engine via the interactive Unity Editor and C# 
 By the end of this Learning Path, you’ll be fully equipped to develop rich, interactive mixed reality experiences using Unity.
 <br>
 
-# Complete Virtual Reality and Augmented Reality Development with Unity by **Jesse Glover and Jonathan Linowes**
+**Complete Virtual Reality and Augmented Reality Development with Unity by _Jesse Glover and Jonathan Linowes_**
 
 ## What you will learn
 * Create 3D scenes to learn about world space and scale
